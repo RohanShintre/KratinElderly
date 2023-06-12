@@ -34,7 +34,7 @@ function Footer() {
                     >
                         <hr className="mb-4"></hr>
                         Copyright ©2023 All rights reserved by :
-                        <a className="text-white" href="#">Chetan Pawar</a>
+                        <a className="text-white" href="https://www.linkedin.com/in/shintrerohan/" target="_blank">Rohan Shintre</a>
                     </div>
 
                 </footer>
